@@ -1,4 +1,5 @@
 const express = require('express')
+const mongoose = require('./db')
 const app = express()
 const businessRoutes = require("./routes/business-routes")
 

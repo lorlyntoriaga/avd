@@ -1,0 +1,49 @@
+{
+    "id": "jfh293847",
+    "business_picture_logo": {
+        "business_id":"Logo123",
+        "picture_name": "ADV Logo"
+    },
+    "business_name": "ADV Services",
+    "business_address": {
+        "street": "Luwasan St.",
+        "baranggay": "Sulucan",
+        "city_municipality": " Pasig City / Angat",
+        "province": "Bulacan"
+    },
+    "business_start_date": "15/02/2015",
+    "business_present_end_date": "Up to present / 02/02/2020",
+    "business_status": " Active / Temporary inactive / Dormant / Dormant Under Section 455 / Active In Progress / Amalgamated / Dissolved / Under Liquidation / Liquidated / Under Process of Striking Off / Strike Off",  
+    "business_size_employees": 70,
+    "description": "Our business is expert on the business accounting field. We have a goal to help the small business to attain their goals",
+    "contact": [
+        { 
+        "message": "Message or call us on this contacts",
+        "business_mobile_number":"09123456789",
+        "business_landline_number": "2345-6789",
+        "business_email_address": "adv@gmail.com",
+        "business_website": "https://www.adv.com",
+        "facebook":"https://www.facebook.com/advph/",
+        "twitter":"https://twitter.com/advph/",
+        "instagram":"https://www.instagram.com/advph/"
+        } 
+    ],
+    "business_rating": [ 
+        { "star": 3, "user_id":"Jess34242", "comment":"the service is good and nice"},
+        { "star": 5, "user_id":"Jess34242", "comment":"the service incredible and very accomidating"}
+    ],
+    "product_service_samples": [{
+        "picture_id":"Pic1123",
+        "picture_name": "ADV Business Planning",
+        "picture_description": "This service is fro planning that are good to your company for a lower price",
+        "price": 20000
+    },
+    {
+        "picture_id":"Pic3123",
+        "picture_name": "ADV Business Bundle 1",
+        "picture_description": "This service is for planning to executing business plans that are good to your company for a lower price",
+        "price": 50000
+    }]
+    
+    
+}
